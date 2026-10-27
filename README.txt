@@ -1,0 +1,1 @@
+This helper is for the separate mcino-Introduction-to-Git-and-GitHub exercise. Run it from a clone of that repository after the required fork, branches, and PR exist. It records actual outputs; it does not create a fork, branches, or pull request. Review the generated files and resolve any errors before submitting.
